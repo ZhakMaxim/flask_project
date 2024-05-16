@@ -1,5 +1,5 @@
 import unittest
-from deserializators.json_deserializer import deserialize
+from eduschedule.deserializators.json_deserializer import deserialize
 
 class TestDeserialize(unittest.TestCase):
 

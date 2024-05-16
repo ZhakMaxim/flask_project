@@ -1,6 +1,6 @@
 import unittest
 from datetime import date
-from serializators.json_serializer import serialize
+from eduschedule.serializators.json_serializer import serialize
 from eduschedule.domain.event import Event
 from eduschedule.domain.lesson import Lesson
 from eduschedule.domain.user import User, UserStatus
